@@ -1,0 +1,1 @@
+playing arount with vanilla javascript to make a item list following domcrashcourse
